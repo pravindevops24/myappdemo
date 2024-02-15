@@ -1,1 +1,7 @@
 Wellcome to DevOPs Mr Praveen!!!
+
+welcome to GIT
+
+welcome to Jenkins
+
+welcome to maven!!
